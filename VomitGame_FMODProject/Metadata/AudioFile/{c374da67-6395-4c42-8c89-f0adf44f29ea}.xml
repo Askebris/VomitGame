@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c374da67-6395-4c42-8c89-f0adf44f29ea}">
+		<property name="assetPath">
+			<value>guts017.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.62498866213151927</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b40148d5-2270-41a7-93a1-0358a5d54c0e}</destination>
+		</relationship>
+	</object>
+</objects>

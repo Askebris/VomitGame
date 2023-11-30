@@ -1,0 +1,6 @@
+{847de68a-a290-462a-a9aa-a7eba3471fb2} bank:/Master
+{1c60c65e-d3eb-0a68-2fe3-2d1552b4192a} bank:/Master.strings
+{68bb85db-74e0-48ca-a45b-2208ce6f77bb} bus:/
+{d6afae7c-0e94-4b7b-932f-c3f7127d0737} bus:/Reverb
+{9341b27a-5189-4d4d-abea-464aac677a4f} event:/Enemies/DuckEnemy_Fall
+{d2b3275d-65d9-46d3-abc5-52997dd93df4} event:/Player/Player_Footsteps
