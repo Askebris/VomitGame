@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{0c1e3123-8324-41ce-abaa-011580b5278b}">
+		<property name="assetPath">
+			<value>HANDCLAP2.WAV</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.35160997732426302</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b40148d5-2270-41a7-93a1-0358a5d54c0e}</destination>
+		</relationship>
+	</object>
+</objects>
