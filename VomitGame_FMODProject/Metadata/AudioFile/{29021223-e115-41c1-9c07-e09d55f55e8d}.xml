@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{29021223-e115-41c1-9c07-e09d55f55e8d}">
+		<property name="assetPath">
+			<value>Ducks Quacking_20.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.76351473922902491</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b40148d5-2270-41a7-93a1-0358a5d54c0e}</destination>
+		</relationship>
+	</object>
+</objects>
