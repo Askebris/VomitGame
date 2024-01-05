@@ -72,6 +72,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{baa89ca8-c1e5-4c36-9855-b650ddacdf2b}">
+		<property name="volume">
+			<value>-6</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{c426883b-2da2-430a-a20e-cb2fa8e03a3d}</destination>
 		</relationship>
@@ -117,6 +120,7 @@
 	<object class="MixerBusEffectChain" id="{c426883b-2da2-430a-a20e-cb2fa8e03a3d}">
 		<relationship name="effects">
 			<destination>{0ef79523-4f38-4863-865e-db45579b785a}</destination>
+			<destination>{033da230-6643-432a-a139-eef0f0c95d0a}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{13d9333d-2c61-43e5-8ce5-6e975c4f6757}" />
@@ -138,5 +142,10 @@
 	</object>
 	<object class="MixerBusPanner" id="{d8e1d33a-4ed9-477a-8bb7-7d788241141e}" />
 	<object class="MixerBusFader" id="{0ef79523-4f38-4863-865e-db45579b785a}" />
+	<object class="SFXReverbEffect" id="{033da230-6643-432a-a139-eef0f0c95d0a}">
+		<property name="wetLevel">
+			<value>-16</value>
+		</property>
+	</object>
 	<object class="MixerBusFader" id="{49878b9c-fab6-43fa-9c08-e0fe815aecfa}" />
 </objects>

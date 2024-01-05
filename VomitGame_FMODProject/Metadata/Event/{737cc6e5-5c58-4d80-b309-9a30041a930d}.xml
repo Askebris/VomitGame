@@ -138,6 +138,7 @@
 			<destination>{ec41de2e-e40f-496a-959f-87cb120d10ea}</destination>
 			<destination>{41127a9d-8bdd-4efc-9b84-99c9f070ab84}</destination>
 			<destination>{eaf55abc-3275-4bbb-a61b-88c1f96643e4}</destination>
+			<destination>{b86622e8-0cd2-44a1-b95a-64db103cef82}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{bf65eaeb-aa4e-4b84-a11a-bde40ed736cc}" />
@@ -198,6 +199,14 @@
 		<relationship name="modulators">
 			<destination>{aebec4bd-60e4-44d5-a6c6-08886a9ac8d3}</destination>
 		</relationship>
+	</object>
+	<object class="SFXReverbEffect" id="{b86622e8-0cd2-44a1-b95a-64db103cef82}">
+		<property name="decayTime">
+			<value>2000</value>
+		</property>
+		<property name="wetLevel">
+			<value>-16</value>
+		</property>
 	</object>
 	<object class="MixerBusFader" id="{37ef2bda-6a85-44dc-a17b-10cc55bf12dc}" />
 	<object class="Automator" id="{0a6752c2-d805-4edc-8a99-4545040d2681}">
